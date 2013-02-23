@@ -27,7 +27,7 @@
 #include "cogl-pvr-texture-gl.h"
 
 #if CLUTTER_COGL_HAS_GLES
-#include <GLES2/gl2.h>
+#include <GLES/gl.h>
 //#include <GLES2/gl2extimg.h>
 #endif
 
